@@ -229,10 +229,13 @@ Missing Skills:
 
 ## Author
 
-Your Name
+HARSH SINGLA
 
 GitHub:
-Your GitHub Profile Link
+(https://github.com/harsh-singla09)
 
 LinkedIn:
-Your LinkedIn Profile Link
+(https://www.linkedin.com/in/harsh-singla-ai/)
+
+
+
